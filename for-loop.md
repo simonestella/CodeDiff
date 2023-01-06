@@ -1,5 +1,5 @@
-# For loop
-Here is explained the syntax of the *for loop*.
+# For loop statement
+*For loop* statement explained syntax, to loop over elements of a list/array.
 
 ## Python
 **Important!** In Python indentation is really important.
