@@ -1,5 +1,5 @@
 # If statement
-Here is explained the syntax of the *if statements*, including *else* and *else-if*.
+*if statement* used to specify a block of code to be executed, if a specified condition is true.
 
 ## Python
 **Important!** In Python indentation is really important.
