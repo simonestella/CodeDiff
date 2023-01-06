@@ -8,7 +8,7 @@ Basic:
 
 Structures:
 - [If statement](if-statement.md)
-- For loop
+- [For loop statement](for-loop.md)
 - While loop
 - Do-While loop
 - Switch      
