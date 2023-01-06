@@ -7,8 +7,8 @@ Basic:
 - [Comments](comment.md)
 
 Structures:
-- [If statement](if-statement.md)
-- [For loop statement](for-loop.md)
+- [If statement](structures/if-statement.md)
+- [For loop statement](structures/for-loop.md)
 - While loop
 - Do-While loop
 - Switch      
