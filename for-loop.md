@@ -10,35 +10,39 @@ for x in range(5):
 
 ## Perl
 ```perl
-if (a > b) {
-  # Do something
-} elsif (a < b) {
-  # Do something
-} else {
-  # Do something
+# For loop with iterators
+for my $i (@a) {
+ # Do something
+}
+
+# Enhanced for loop
+foreach (@a) {
+ # Do something
 }
 ```
 
 ## Java
 ```java
-// Classic for loop
+// For loop with iterators
 for (int i = 0; i < 5; i++) { 
     // Do something
 }
     
 // Enhanced for loop
-for (int item : items) {
+for (int n : numbers) {
   // Do something
 }
 ```
 
 ## C++
 ```cpp
-if (a > b) {
-  // Do something
-} else if (a < b) {
-  // Do something
-} else {
-  // Do something
+// For loop with iterators
+for (int i = 0; i < 5; i++) { 
+    // Do something
+}
+
+// Enhanced for loop
+for (int n : numbers) {
+    // Do something
 }
 ```
