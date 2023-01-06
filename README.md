@@ -3,7 +3,7 @@
 CodeDiff is a documentation, made in Markdown, for programmers who would like to distinguish the fundamentals of all the programming languages listed below.
 
 Basics:
-- Types of variable
+- [Declaration of variables](basics/variables.md)
 - [Comments](basics/comment.md)
 
 Structures:
