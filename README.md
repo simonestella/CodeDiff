@@ -9,6 +9,6 @@ Basics:
 Structures:
 - [If statement](structures/if-statement.md)
 - [For loop statement](structures/for-loop.md)
-- While loop
-- Do-While loop
-- Switch      
+- [While loop statement](structures/while-loop.md)
+- [Do-While loop statement](structures/do-while-loop.md)
+- [Switch loop statement](structures/switch-statement.md)
