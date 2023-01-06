@@ -1,5 +1,5 @@
-# If statement
-*if statement* used to specify a block of code to be executed, if a specified condition is true.
+# Switch statement
+*switch statement* used to specify a block of code to be executed, if a specified condition is true.
 
 ## Python
 **Important!** In Python indentation is really important. 
