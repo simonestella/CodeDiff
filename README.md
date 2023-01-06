@@ -4,7 +4,7 @@ CodeDiff is a documentation, made in Markdown, for programmers who would like to
 
 Basics:
 - Types of variable
-- [Comments](comment.md)
+- [Comments](basics/comment.md)
 
 Structures:
 - [If statement](structures/if-statement.md)
