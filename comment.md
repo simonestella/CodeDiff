@@ -1,5 +1,6 @@
 # Comment
 Here is explained the syntax of single-line comment and multi-line comment.
+Comments are an easy way to increase the readability of your code!
 
 ## Python
 **Important!** In Python indentation is really important.
